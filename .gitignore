@@ -1,0 +1,19 @@
+/public/
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Editor
+.vscode
+
+# Logs
+logs
+*.log
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
